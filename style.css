@@ -2,3 +2,45 @@
   font-style: italic;
   
 }
+
+.funfact {
+  background-color: #cdc9fd;
+}
+
+/* background-color V
+width V
+height V
+RGB
+color
+font-size
+font-family */
+
+body {
+  background-color: rgb(250, 253, 255);
+}
+
+div {
+  height: 100px;
+  width: 60%;
+  background-color: rgb(214, 233, 250);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p, h1, h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+li {
+  display: inline;
+}
+
+p::first-letter {
+  color: rgb(39, 39, 100);
+
+}
+
+p:hover {
+  background-color: aqua;
+}
