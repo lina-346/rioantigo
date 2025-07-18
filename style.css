@@ -14,7 +14,7 @@ body {
   background-color: rgb(250, 253, 255);
 }
 
-div {
+div1 {
   height: 100px;
   width: 60%;
   background-color: rgb(214, 233, 250);
@@ -22,7 +22,7 @@ div {
   font-size: 14px;
   padding-left: 12px;
   padding-right: 12px;
-  text-align: justify;
+  
 }
 
 p, h3 {
@@ -30,6 +30,8 @@ p, h3 {
   padding-left: 12px;
   padding-right: 12px;
   text-align: justify;
+  padding-bottom: 8px;
+  padding-top: 8px;
 }
 
 /* h1 {
